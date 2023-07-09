@@ -23,7 +23,7 @@ From 2008 to 2021 I worked in Minsk City Agency for State Registration and Techn
 - Created reporting documents  
 - Performed the duties of the chief
 
-Since 2022 I have been working as a QA Engineer at the National Cadastral Agency  
+Since 2022 I have been working as a tester at the National Cadastral Agency  
 **Responsibilities:**    
 - Requirement gathering
 - Requirement testing  
